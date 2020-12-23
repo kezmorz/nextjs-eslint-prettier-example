@@ -36,7 +36,7 @@ src/
 babel.config.json             // babel configuration
 LICENSE                       // root MIT license file used by GitHub
 next.config.js                // next configuration
-package.json                  // root package configuration with common workspace-wide devDependencies and scripts
+package.json                  // package configuration with all dependencies, devDependencies and scripts
 README.md                     // standard root information
 yarn.lock                     // standard lockfile containing package install information
 ```

@@ -33,7 +33,7 @@ src/
 .eslint.json                  // eslint configuration
 .gitignore                    // default GitHub gitignore file
 .prettier.json                // prettier configuration
-babel.config.js               // babel configuration
+babel.config.json             // babel configuration
 LICENSE                       // root MIT license file used by GitHub
 next.config.js                // next configuration
 package.json                  // root package configuration with common workspace-wide devDependencies and scripts
